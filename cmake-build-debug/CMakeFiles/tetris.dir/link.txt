@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tetris.dir/main.c.o  -o tetris 

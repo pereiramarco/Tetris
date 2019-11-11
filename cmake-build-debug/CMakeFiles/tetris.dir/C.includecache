@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marco/CLionProjects/tetris/main.c
+stdio.h
+-
+stdlib.h
+-
+ncurses.h
+-
+time.h
+-
+zconf.h
+-
+
